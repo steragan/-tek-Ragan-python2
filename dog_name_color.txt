@@ -1,0 +1,10 @@
+(1,"Simba","brown"),
+(2,"Coco","black"),
+(3,"Ace","white"),
+(4,"Duke","brown"),
+(5,"Bear","brown"),
+(6,"Pepper","gray"),
+(7,"Rockey","black"),
+(8,"Stella","white"),
+(9,"Harley","black"),
+(10,"Daisy","brown");
